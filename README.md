@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# hello-world test repository
+Just another repository to leanr more about Git-hub
